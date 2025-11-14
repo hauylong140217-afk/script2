@@ -55,7 +55,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/flazhy/QuantumOnyx/re
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Alexisisback/Lunax/refs/heads/main/Loader.lua"))()
-  end
+ end
   })
    AddButton(Tab3o, {
      Name = "shadows simple",
@@ -66,4 +66,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Alexisisback/Lunax/re
 }
 
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Simple-Shader-37434"))()
-		end
+ end
